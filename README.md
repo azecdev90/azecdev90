@@ -19,7 +19,7 @@ return [
     'frontend' => ['HTML', 'CSS', 'Bootstrap','VueJS']
   ],
     'databases' => ['MySQL', 'PostgreSQL','MongoDB'],
-    'favouriteTopics' => ['Cyber security', 'Design pattern' ],
+    'favouriteTopics' => ['Cyber security', 'Design patterns' ],
     'QA' => ['Automation testing' => 'Selenium'],
     'devOps' => ['MS Azure', 'Docker'],
     'projectManagement' => [
