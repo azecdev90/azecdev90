@@ -31,7 +31,7 @@ return [
 #### My open source projects
 | Projects  | Description | Contributors | Relase |
 | ---------------  | ---------------- |------------- | ------------- |
-| [SQLiscanner](https://github.com/azecdev90/sqliscanner)  | Command-line utility for automatic exploatation SQL vulnerability | ![GitHub contributors](https://img.shields.io/github/contributors/azecdev90/sqliscanner) | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/azecdev90/sqliscanner)|
+| [SQLiscanner](https://github.com/azecdev90/sqliscanner)  | Command-line utility for automatic exploatation SQL vulnerability | ![GitHub contributors](https://img.shields.io/github/contributors/azecdev90/sqliscanner?color=01fa79) | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/azecdev90/sqliscanner?color=01fa79) |
 
 <!--
 **azecdev90/azecdev90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
