@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-My name is *Amir Zec*. I am backend web developer based in *Sarajevo*, *Bosnia and Herzegovina*. Currently, I am working as a freelance developer. On this Github profile, you can check some of my latest works. If you have any question, don't hesitate to contact me. 
+My name is *Amir Zec*. I am backend web developer based in *Sarajevo*, *Bosnia and Herzegovina*. Currently,  
+I am working as a freelance developer. On this Github profile, you can check some of my latest works.  
+If you have any question, don't hesitate to contact me. 
 
-About me 👇
+Meet me better 👇
 ```php
 <?php 
 namespace GitHub\azecdev90\azecdev90;
@@ -17,6 +19,7 @@ return [
     'frontend' => ['HTML', 'CSS', 'Bootstrap','VueJS']
   ],
     'databases' => ['MySQL', 'PostgreSQL','MongoDB'],
+    'favouriteTopics' => ['Cyber security', 'Design pattern' ],
     'QA' => ['Automation testing' => 'Selenium'],
     'devOps' => ['MS Azure', 'Docker'],
     'projectManagement' => [
