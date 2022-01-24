@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-My name is *Amir Zec*. I am backend web developer based in *Sarajevo*, *Bosnia and Herzegovina*. Currently,  
-I am working as a freelance developer. On this Github profile, you can check some of my latest works.  
+Welcome to my Github profile.  
+My name is *Amir Zec*. I am backend web developer based in **Sarajevo, Bosnia and Herzegovina**. <img src="https://hatscripts.github.io/circle-flags/flags/ba.svg" width="15" height="15" />   
+Currently, I am working as a freelance developer. On this Github profile, you can check some of my latest works.   
 If you have any question, don't hesitate to contact me. 
 
-Meet me better 👇
+
+### About me
+##### For geeks 👇
 ```php
-<?php 
-namespace GitHub\azecdev90\azecdev90;
+namespace GitHub\azecdev90\azecdev90 as Introduction;
 
 return [
     'code' => [
@@ -19,7 +21,6 @@ return [
     'frontend' => ['HTML', 'CSS', 'Bootstrap','VueJS']
   ],
     'databases' => ['MySQL', 'PostgreSQL','MongoDB'],
-    'favouriteTopics' => ['Cyber security', 'Design patterns' ],
     'QA' => ['Automation testing' => 'Selenium'],
     'devOps' => ['MS Azure', 'Docker'],
     'projectManagement' => [
@@ -28,11 +29,46 @@ return [
   ]
 ];
 ```
-#### My open source projects
-| Projects  | Description | Contributors | Relase |
-| ---------------  | ---------------- |------------- | ------------- |
-| [SQLiscanner](https://github.com/azecdev90/sqliscanner)  | Command-line utility for automatic exploatation SQL vulnerability | ![GitHub contributors](https://img.shields.io/github/contributors/azecdev90/sqliscanner?color=01fa79) | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/azecdev90/sqliscanner?color=01fa79) |
 
+##### For those who are inspired by design 👇  
+
+*Code*   
+
+*Native language*    
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)   
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)  
+
+*Backend*  
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)    
+
+*Frontend*    
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)  
+
+*Databases*  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+*QA*    
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
+
+*DevOps*  
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+
+*Project management*  
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+
+
+
+
+
+   
 <!--
 **azecdev90/azecdev90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
