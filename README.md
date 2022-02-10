@@ -10,7 +10,7 @@ If you have any question, don't hesitate to contact me.
 ### About me
 ##### For geeks 👇
 ```php
-namespace GitHub\azecdev90\azecdev90 as Introduction;
+namespace GitHub\azecdev90\azecdev90;
 
 return [
     'code' => [
