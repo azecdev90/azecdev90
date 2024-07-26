@@ -15,18 +15,19 @@ namespace GitHub\azecdev90\azecdev90;
 return [
     'code' => [
     'nativeLangauge' => [
-        'native' => ' PHP ',
-        'frameworks' => ['Laravel','Codeigniter']
+        'native' => ['C#', 'PHP'],
+        'frameworks' => ['.NET framework','Laravel']
     ],
-    'backend' => ['PHP', 'NodeJS'],
-    'frontend' => ['HTML', 'CSS', 'Bootstrap','VueJS']
+    'backend' => ['C#', 'php'],
+    'frontend' => ['HTML', 'CSS', 'Bootstrap','React']
   ],
-    'databases' => ['MySQL', 'PostgreSQL','MongoDB'],
+    'databases' => ['SQLServer', 'mySQL','MongoDB'],
     'QA' => ['Automation testing' => 'Selenium'],
     'devOps' => ['MS Azure', 'Docker'],
     'projectManagement' => [
     'methodology' => ['Agile methodology', 'SCRUM framework'],
     'tracking' => 'Jira'
+    'collaboration' => ['Git', 'Github','Bitbucket', 'AzureDevops']
   ]
 ];
 ```
