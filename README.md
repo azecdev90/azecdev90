@@ -3,7 +3,7 @@
 Welcome to my Github profile.  
 My name is **Amir Zec**. I am backend web developer based in **Sarajevo, <img src="https://hatscripts.github.io/circle-flags/flags/ba.svg" width="15" height="15" />    Bosnia and Herzegovina**.  
 
-Currently, I am working as a freelance web developer. On this Github profile, you can check some of my latest works.   
+Currently, I am working as a full-time web developer for Additiv. On this Github profile, you can check some of my latest works.   
 If you have any question, don't hesitate to contact me. 
 
 
